@@ -1,1 +1,14 @@
-
+  [
+    {
+      "name": "Cola",
+      "preis": 2.0,
+      "pfand_aktiv": true,
+      "pfand": 0.25
+    },
+    {
+      "name": "Wasser",
+      "preis": 1.5,
+      "pfand_aktiv": false,
+      "pfand": 0
+    }
+  ]
