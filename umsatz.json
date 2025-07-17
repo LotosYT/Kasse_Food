@@ -1,1 +1,12 @@
-  {}
+[
+  {
+    "zeit": "2025-07-17T23:13:34.188883",
+    "produkte": [
+      "Wasser",
+      "Wasser"
+    ],
+    "summe": 3.0,
+    "gegeben": 22.1,
+    "wechselgeld": 19.1
+  }
+]
