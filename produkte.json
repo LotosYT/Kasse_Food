@@ -16,10 +16,17 @@
     "kategorie": "Getränke"
   },
   {
-    "name": "Schokoriegel",
-    "preis": 1.0,
+    "name": "Bratwurst",
+    "preis": 4.50,
     "pfand_aktiv": false,
     "pfand": 0,
-    "kategorie": "Snacks"
-  }
+    "kategorie": "Wurst"
+  },
+  {
+    "name": "Rindsbratwurst",
+    "preis": 4.50,
+    "pfand_aktiv": false,
+    "pfand": 0,
+    "kategorie": "Wurst"
+  },
 ]
