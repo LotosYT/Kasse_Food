@@ -13,20 +13,125 @@
     "preis": 1.5,
     "pfand_aktiv": false,
     "pfand": 0,
-    "kategorie": "Getränke"
+    "kategorie": "Getränke",
+    "farbe": "#b3e5fc",
+    "bild": "wasser.png"
+  },
+  {
+    "name": "Fanta",
+    "preis": 2.0,
+    "pfand_aktiv": true,
+    "pfand": 0.25,
+    "kategorie": "Getränke",
+    "farbe": "#ffd54f",
+    "bild": "fanta.png"
+  },
+  {
+    "name": "Sprite",
+    "preis": 2.0,
+    "pfand_aktiv": true,
+    "pfand": 0.25,
+    "kategorie": "Getränke",
+    "farbe": "#c8e6c9",
+    "bild": "sprite.png"
+  },
+  {
+    "name": "Apfelschorle",
+    "preis": 2.2,
+    "pfand_aktiv": true,
+    "pfand": 0.25,
+    "kategorie": "Getränke",
+    "farbe": "#fff9c4",
+    "bild": "apfelschorle.png"
   },
   {
     "name": "Bratwurst",
-    "preis": 4.50,
+    "preis": 4.5,
     "pfand_aktiv": false,
     "pfand": 0,
-    "kategorie": "Wurst"
+    "kategorie": "Wurst",
+    "farbe": "#ffe0b2",
+    "bild": "bratwurst.png"
   },
   {
     "name": "Rindsbratwurst",
-    "preis": 4.50,
+    "preis": 4.5,
     "pfand_aktiv": false,
     "pfand": 0,
-    "kategorie": "Wurst"
+    "kategorie": "Wurst",
+    "farbe": "#bcaaa4",
+    "bild": "rindsbratwurst.png"
+  },
+  {
+    "name": "Currywurst",
+    "preis": 5.0,
+    "pfand_aktiv": false,
+    "pfand": 0,
+    "kategorie": "Wurst",
+    "farbe": "#ffccbc",
+    "bild": "currywurst.png"
+  },
+  {
+    "name": "Pommes",
+    "preis": 3.0,
+    "pfand_aktiv": false,
+    "pfand": 0,
+    "kategorie": "Snacks",
+    "farbe": "#fff176",
+    "bild": "pommes.png"
+  },
+  {
+    "name": "Ketchup",
+    "preis": 0.5,
+    "pfand_aktiv": false,
+    "pfand": 0,
+    "kategorie": "Snacks",
+    "farbe": "#ef9a9a",
+    "bild": "ketchup.png"
+  },
+  {
+    "name": "Mayonnaise",
+    "preis": 0.5,
+    "pfand_aktiv": false,
+    "pfand": 0,
+    "kategorie": "Snacks",
+    "farbe": "#fffde7",
+    "bild": "mayonnaise.png"
+  },
+  {
+    "name": "Schokoriegel",
+    "preis": 1.2,
+    "pfand_aktiv": false,
+    "pfand": 0,
+    "kategorie": "Snacks",
+    "farbe": "#d7ccc8",
+    "bild": "schokoriegel.png"
+  },
+  {
+    "name": "Muffin",
+    "preis": 2.0,
+    "pfand_aktiv": false,
+    "pfand": 0,
+    "kategorie": "Snacks",
+    "farbe": "#f8bbd0",
+    "bild": "muffin.png"
+  },
+  {
+    "name": "Kaffee",
+    "preis": 2.5,
+    "pfand_aktiv": false,
+    "pfand": 0,
+    "kategorie": "Getränke",
+    "farbe": "#bcaaa4",
+    "bild": "kaffee.png"
+  },
+  {
+    "name": "Tee",
+    "preis": 2.0,
+    "pfand_aktiv": false,
+    "pfand": 0,
+    "kategorie": "Getränke",
+    "farbe": "#c5e1a5",
+    "bild": "tee.png"
   }
 ]
