@@ -1,12 +1,12 @@
 [
   {
-  "name": "Cola",
-  "preis": 2.0,
-  "pfand_aktiv": true,
-  "pfand": 0.25,
-  "kategorie": "Getränke",
-  "farbe": "#ffe082",
-  "bild": "cola.png"
+    "name": "Cola",
+    "preis": 2.0,
+    "pfand_aktiv": true,
+    "pfand": 0.25,
+    "kategorie": "Getränke",
+    "farbe": "#ffe082",
+    "bild": "cola.png"
   },
   {
     "name": "Wasser",
