@@ -19,5 +19,15 @@
     "gegeben": 5.0,
     "wechselgeld": 0.5,
     "kassen_id": "1"
+  },
+  {
+    "zeit": "2025-07-19T14:28:46.377940",
+    "produkte": [
+      "Apfelschorle"
+    ],
+    "summe": 2.45,
+    "gegeben": 200.0,
+    "wechselgeld": 197.55,
+    "kassen_id": "1"
   }
 ]
