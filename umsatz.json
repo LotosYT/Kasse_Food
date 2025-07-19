@@ -8,5 +8,16 @@
     "summe": 3.0,
     "gegeben": 22.1,
     "wechselgeld": 19.1
+  },
+  {
+    "zeit": "2025-07-19T14:28:13.499843",
+    "produkte": [
+      "Fanta",
+      "Fanta"
+    ],
+    "summe": 4.5,
+    "gegeben": 5.0,
+    "wechselgeld": 0.5,
+    "kassen_id": "1"
   }
 ]
