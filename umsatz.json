@@ -29,5 +29,17 @@
     "gegeben": 200.0,
     "wechselgeld": 197.55,
     "kassen_id": "1"
+  },
+  {
+    "zeit": "2025-07-20T17:37:46.792731",
+    "produkte": [
+      "Muffin",
+      "Kaffee"
+    ],
+    "summe": 4.5,
+    "gegeben": 5.0,
+    "wechselgeld": 0.5,
+    "kassen_id": "KASSE_217_91_176_201",
+    "ip": "217.91.176.201"
   }
 ]
