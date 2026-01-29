@@ -41,5 +41,19 @@
     "wechselgeld": 0.5,
     "kassen_id": "KASSE_217_91_176_201",
     "ip": "217.91.176.201"
+  },
+  {
+    "zeit": "2026-01-29T07:38:14.797594",
+    "produkte": [
+      "Cola",
+      "Cola",
+      "Currywurst",
+      "Schokoriegel"
+    ],
+    "summe": 10.7,
+    "gegeben": 20.0,
+    "wechselgeld": 9.3,
+    "kassen_id": "KASSE_91_2_247_128",
+    "ip": "91.2.247.128"
   }
 ]
